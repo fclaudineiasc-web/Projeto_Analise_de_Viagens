@@ -243,7 +243,8 @@ As diárias representam a principal categoria de pagamento analisada:
 -Valor médio: R$ 2.078,28
 -Valor total: R$ 834,3 milhões
 
-<img width="884" height="584" alt="image" src="https://github.com/user-attachments/assets/a465a22b-aca4-4d14-b85d-6707ae164e02" />
+<img width="884" height="584" alt="image" src="https://github.com/user-attachments/assets/4d2aea22-87a0-4432-8bca-b38afb736527" />
+
 
 Esse resultado demonstra que a permanência dos servidores nos locais de destino representa uma parcela significativa dos custos das viagens oficiais.
 
