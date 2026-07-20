@@ -1,0 +1,20 @@
+# Ignorar arquivos de credenciais locais
+
+.env
+
+# Ignorar base de dados bruta e arquivos extraidos temporarios
+
+.csv
+.zip
+.data/
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+
+# Arquivos temporários do Python
+_pycache_/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
