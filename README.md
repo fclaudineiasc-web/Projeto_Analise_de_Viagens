@@ -1,10 +1,3 @@
-
-# Projeto_Analise_de_Viagens
-
-Pipeline ETL – Análise de Viagens a Serviço do Governo Federal Projeto Avaliativo - Módulo 1 - Semana 13 \
-Aluna: Claudineia Ferreira 
-Turma: Análise De Dados T1
-
 # Análise de Dados com Python e PostgreSQL – Pipeline ETL
 
 (Arquitetura Medallion)
