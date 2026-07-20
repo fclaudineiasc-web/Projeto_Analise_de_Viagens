@@ -4,9 +4,9 @@
 
 # Ignorar base de dados bruta e arquivos extraidos temporarios
 
-.csv
-.zip
-.data/
+*.csv
+*.zip
+data/
 
 # Ambientes virtuais
 .venv/
