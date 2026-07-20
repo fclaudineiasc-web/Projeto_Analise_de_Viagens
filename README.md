@@ -90,7 +90,7 @@ analise-viagens-governo-2025/
 
 ## Tecnologias utilizadas
 
-###Linguagem
+## Linguagem
 
 - Python 3
 
@@ -261,11 +261,11 @@ Esse comportamento indica uma forte utilização da frota própria dos órgãos 
 
 As UFs com maior frequência de destino foram:
 
-- 1. São Paulo – 79.684 viagens
-- 2. Distrito Federal – 75.449 viagens
-- 3. Minas Gerais – 49.316 viagens
-- 4. Rio de Janeiro – 43.058 viagens
-- 5. Paraná – 38.422 viagens
+- 1- São Paulo – 79.684 viagens
+- 2- Distrito Federal – 75.449 viagens
+- 3- Minas Gerais – 49.316 viagens
+- 4- Rio de Janeiro – 43.058 viagens
+- 5- Paraná – 38.422 viagens
 
 Os resultados mostram uma concentração das viagens em estados com maior relevância administrativa, econômica e institucional.
 
