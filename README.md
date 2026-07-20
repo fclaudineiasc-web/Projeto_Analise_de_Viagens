@@ -58,27 +58,7 @@ O projeto resolve esse problema por meio de um processo ETL que:
 
 O pipeline segue o modelo Medallion, dividido em três camadas.
 
-
-```text
-
-              Portal da Transparência
-                         │
-                         ▼
-                Download Automático
-                         │
-                         ▼
-                 Camada RAW (Bronze)
-           Dados originais sem alterações
-                         │
-                         ▼
-                Camada SILVER (Prata)
-        Dados limpos, tipados e relacionados
-                         │
-                         ▼
-                 Camada GOLD (Ouro)
-           Indicadores, métricas e análises
-
-```
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/cad9cdf2-9660-4499-9406-c672e5a32642" />
 
 ## Estrutura do Projeto
 
