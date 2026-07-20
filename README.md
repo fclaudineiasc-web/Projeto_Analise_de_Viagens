@@ -268,7 +268,7 @@ As UFs com maior frequência de destino foram:
 
 Os resultados mostram uma concentração das viagens em estados com maior relevância administrativa, econômica e institucional.
 
-Conclusão Geral
+## Conclusão Geral
 
 A construção da camada Gold possibilitou transformar dados brutos de viagens em informações estratégicas para análise de gastos públicos. Os resultados mostram que os custos estão relacionados principalmente ao órgão responsável, tipo de pagamento, duração da viagem e características do deslocamento.
 
