@@ -173,7 +173,7 @@ Características:
 Extração dos CSV
       │
       ▼
-Carga RAW
+  Carga RAW
       │
       ▼
 Transformação
@@ -188,7 +188,7 @@ Criação GOLD
 Consultas SQL
       │
       ▼
-Gráficos
+  Gráficos
 
 ```
 
@@ -302,38 +302,6 @@ O notebook produz gráficos contendo:
 - escalas adequadas;
 - informações derivadas da camada Gold
 
-Foram construídos gráficos utilizando Matplotlib para facilitar a interpretação dos
-resultados.
-
-Entre eles:
-
-- Top 5 órgãos com maior gasto.
-
-![Dashboard 1](.PNG)
-
-- Top 3 destinos com maior custo médio.
-
- ![Dashboard 2](.PNG)
-
-- Meio de transporte mais utilizado.
-
-![Dashboard 3](.PNG)
-
-- Tipo de pagamento.
-
-![Dashboard 4](.PNG)
-
-- Distribuição dos gastos por órgão.
-
-![Dashboard 5](.PNG)
-
-- Frequência de destinos por UF.
-
-![Dashboard 6](.PNG)
-
-## Boas práticas aplicadas
-
-- Arquitetura Medallion.
 - Código modular.
 - Padrão PEP 8.
 - Credenciais armazenadas no arquivo .env
