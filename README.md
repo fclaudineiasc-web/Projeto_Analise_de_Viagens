@@ -207,9 +207,7 @@ As seguintes análises foram desenvolvidas:
 4. O tipo de pagamento com maior valor médio.
 5. O meio de transporte mais utilizado.
 6. A UF de destino mais frequente.
-
-## Conclusões
-A análise dos dados de viagens oficiais, utilizando a arquitetura de dados em camadas Raw, Silver e Gold, permitiu identificar padrões de gastos, destinos, meios de transporte e comportamento das despesas públicas durante o período analisado.
+7. Qual órgão pagou mais no total
 
 ### 1. Concentração dos gastos por órgãos públicos
 
@@ -269,6 +267,22 @@ As UFs com maior frequência de destino foram:
 
 Os resultados mostram uma concentração das viagens em estados com maior relevância administrativa, econômica e institucional.
 
+7. Órgãos com maior valor pago no período
+
+A análise dos pagamentos identificou os cinco órgãos com maior volume financeiro no período analisado:
+```text
+| Órgão Pagador                              | Quantidade |  Valor Total Pago | Valor Médio |
+| ------------------------------------------ | ---------: | ----------------: | ----------: |
+| Fundo Nacional de Segurança Pública        |     79.816 | R$ 278.481.047,89 | R$ 3.489,04 |
+| Sigiloso                                   |     93.141 | R$ 200.484.801,68 | R$ 2.152,49 |
+| Comando da Aeronáutica                     |     46.193 |  R$ 81.769.144,77 | R$ 1.770,16 |
+| Instituto Nacional do Seguro Social (INSS) |     18.324 |  R$ 37.427.601,45 | R$ 2.042,55 |
+| Comando do Exército                        |     22.837 |  R$ 36.872.643,95 | R$ 1.614,60 |
+```
+## Insights
+O Fundo Nacional de Segurança Pública liderou o ranking, com mais de R$ 278 milhões pagos e o maior valor médio por pagamento.
+A categoria "Sigiloso" apresentou o maior número de pagamentos (93.141 registros), evidenciando que parte das despesas possui restrição legal de divulgação.
+Comando da Aeronáutica, INSS e Comando do Exército também aparecem entre os maiores responsáveis pelos pagamentos relacionados às viagens oficiais.
 ## Conclusão Geral
 
 A construção da camada Gold possibilitou transformar dados brutos de viagens em informações estratégicas para análise de gastos públicos. Os resultados mostram que os custos estão relacionados principalmente ao órgão responsável, tipo de pagamento, duração da viagem e características do deslocamento.
