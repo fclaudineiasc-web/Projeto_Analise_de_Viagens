@@ -255,7 +255,7 @@ Esse comportamento indica uma forte utilização da frota própria dos órgãos 
 <img width="784" height="584" alt="image" src="https://github.com/user-attachments/assets/67c16e88-67df-4dad-8330-87b0c2677c3e" />
 
 
-6. Concentração geográfica das viagens
+## 6. Concentração geográfica das viagens
 
 As UFs com maior frequência de destino foram:
 
@@ -267,7 +267,7 @@ As UFs com maior frequência de destino foram:
 
 Os resultados mostram uma concentração das viagens em estados com maior relevância administrativa, econômica e institucional.
 
-7. Órgãos com maior valor pago no período
+## 7. Órgãos com maior valor pago no período
 
 A análise dos pagamentos identificou os cinco órgãos com maior volume financeiro no período analisado:
 ```text
@@ -279,10 +279,15 @@ A análise dos pagamentos identificou os cinco órgãos com maior volume finance
 | Instituto Nacional do Seguro Social (INSS) |     18.324 |  R$ 37.427.601,45 | R$ 2.042,55 |
 | Comando do Exército                        |     22.837 |  R$ 36.872.643,95 | R$ 1.614,60 |
 ```
+
+<img width="1192" height="584" alt="image" src="https://github.com/fclaudineiasc-web/Projeto_Analise_de_Viagens/blob/2b689cc884a3bb84eca66b414eaf7579e78a4d2d/imagens/pergunta7__orgao_maior_pagamento_periodo.png" />
+
 ## Insights
+
 O Fundo Nacional de Segurança Pública liderou o ranking, com mais de R$ 278 milhões pagos e o maior valor médio por pagamento.
 A categoria "Sigiloso" apresentou o maior número de pagamentos (93.141 registros), evidenciando que parte das despesas possui restrição legal de divulgação.
 Comando da Aeronáutica, INSS e Comando do Exército também aparecem entre os maiores responsáveis pelos pagamentos relacionados às viagens oficiais.
+
 ## Conclusão Geral
 
 A construção da camada Gold possibilitou transformar dados brutos de viagens em informações estratégicas para análise de gastos públicos. Os resultados mostram que os custos estão relacionados principalmente ao órgão responsável, tipo de pagamento, duração da viagem e características do deslocamento.
