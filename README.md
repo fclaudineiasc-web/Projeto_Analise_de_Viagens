@@ -211,6 +211,12 @@ As seguintes análises foram desenvolvidas:
 
 ### 1. Concentração dos gastos por órgãos públicos
 
+1	Ministério da Justiça e Segurança Pública (R$) 486.933.121,65
+2	Ministério da Defesa (R$)	156.070.304,49
+3	Ministério da Educação (R$) 111.291.349,34
+4	Ministério do Meio Ambiente e Mudança do Clima (R$)	49.697.710,16
+5	Ministério da Previdência Social (R$)	40.417.309,06
+
 Os resultados demonstram que os gastos com viagens estão concentrados em poucos órgãos governamentais. O Ministério da Justiça e Segurança Pública apresentou o maior custo total,seguido pelo Ministério da Defesa e pelo Ministério da Educação.
 
 Esse cenário indica que órgãos com atividades operacionais, fiscalização, segurança, defesa e atuação nacional possuem maior necessidade de deslocamentos, refletindo diretamente no volume de recursos destinados às viagens.
@@ -221,9 +227,11 @@ Esse cenário indica que órgãos com atividades operacionais, fiscalização, s
 
 A análise dos destinos revelou que alguns municípios apresentaram custos médios elevados por viagem, destacando-se:
 
-- Sananduva/RS – custo médio de R$ 108.309,30
-- Monte Negro/RO – custo médio de R$ 104.979,28
-- Nonoai/RS – custo médio de R$ 99.278,92
+- Monte Negro/ Rondônia	- 98 viagens- custo médio	(R$) 84.926,03
+- Novo Santo Antônio/	Mato Grosso- - 24 viagens - custo médio (R$)	79.266,08
+- Sananduva/	Rio Grande do Sul	- 103 viagens -	custo médio (R$) 78.792,23
+- Nonoai/	Rio Grande do Sul -	117 viagens -	custo médio (R$) 77.931,92
+- Lahore/	Internacional	- 5 viagens -	custo médio (R$) 65.661,26
 
 Esses valores indicam que determinados destinos podem envolver viagens com maior duração, maiores distâncias percorridas ou necessidades específicas de deslocamento e permanência.
 
@@ -238,8 +246,8 @@ Esse resultado evidencia a importância de processos de tratamento e auditoria d
 As diárias representam a principal categoria de pagamento analisada:
 
 - 401.463 pagamentos
--Valor médio: R$ 2.078,28
--Valor total: R$ 834,3 milhões
+-Valor médio: (R$) 2.078,28
+-Valor total: (R$) 834,3 milhões
 
 <img width="884" height="584" alt="image" src="https://github.com/user-attachments/assets/4d2aea22-87a0-4432-8bca-b38afb736527" />
 
